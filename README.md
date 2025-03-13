@@ -11,6 +11,7 @@ Background: Recruitment and Assessment Centre (RAC) under DRDO, Ministry of Defe
 Ministry of Defence
 
 ## Idea
+******
 1.Simulate Boardroom Interviews – Create an interactive panel for candidates.
 2.Ensure Question Relevance – AI will assess the suitability of questions based on the candidate's expertise.
 3.Evaluate Candidate Responses – NLP-based analysis for response quality and relevancy.
@@ -20,16 +21,17 @@ Ministry of Defence
 7.Custom Difficulty Levels: Questions can be categorized as Basic, Intermediate, and Advanced, adjusting dynamically based on candidate performance.
 8.Real-Time Feedback: Candidates get automated feedback on weak areas after the interview.
 9.Leaderboard for Candidates: Ranks candidates based on performance for competitive positions.
-
+*****
 ## Proposed Solution / Architecture Diagram
 ![image](https://github.com/user-attachments/assets/ba94ad9d-0396-4b84-987d-375d5053caaa)
 
 
 ## Use Cases
-![image](https://github.com/user-attachments/assets/8e553f23-3b61-4ffd-b856-d1c654a0980c)
+![WhatsApp Image 2025-03-13 at 23 29 44_7fdd80f1](https://github.com/user-attachments/assets/a5788114-3770-48f9-87e9-752593378ae1)
 
 
 ## Technology Stack
+*******
 Frontend (User Interface) 🎨
 🟢 React.js / Angular / Vue.js – To build an interactive UI
 🟢 HTML, CSS, JavaScript (TypeScript optional) – Basic web technologies
@@ -55,11 +57,13 @@ Cloud & Security ☁️🔒
 🟢 AWS / Google Cloud / Azure – For hosting and scaling
 🟢 Docker & Kubernetes – To manage deployments
 🟢 SSL/TLS Encryption – For data security
-
+******
 ## Dependencies
+******
 📌 Initial Development: $30,000 - $80,000
 📌 Annual Cloud & Maintenance: $22,000 - $120,000
 🚀 Enterprise-Level System (High-End AI, Large-Scale Deployment) → $100,000+
 🚀 MVP (Basic AI, Limited Users) → $30,000 - $50,000
-
+🔹 Total Estimated Time: ~60-80 Days
+*******
 
